@@ -20,3 +20,15 @@ The program helps users manage daily tasks easily through the command line.
 
 ```bash
 python todo.py
+## Task 2 - Calculator Application
+
+This is a simple Calculator Application made using Python.
+
+### Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+### Technology Used
+- Python
