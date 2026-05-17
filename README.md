@@ -1,34 +1,102 @@
-# To-Do List Application 📝
+CODSOFT Python Internship Projects 🚀
 
-This is a simple To-Do List application made using Python.  
-The program helps users manage daily tasks easily through the command line.
+Welcome to my CODSOFT Python Internship repository. This repository contains all the Python projects completed during my internship.
 
-## Features ✨
-- Add new tasks
-- View all tasks
-- Remove completed tasks
-- Simple and user-friendly interface
 
-## Technologies Used 💻
-- Python
+---
 
-## How to Run ▶️
-1. Install Python on your system
-2. Download the project files
-3. Open terminal or command prompt
-4. Run the following command:
+👩‍💻 About Me
 
-```bash
-python todo.py
-## Task 2 - Calculator Application
+Name: Keerti Binwal
 
-This is a simple Calculator Application made using Python.
+Course: BCA
 
-### Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
+University: Amrapali University
 
-### Technology Used
-- Python
+Domain: Python Programming
+
+
+
+---
+
+📌 Projects Included
+
+✅ Task 1 - To-Do List Application
+
+A simple command-line based To-Do List application created using Python.
+
+✨ Features:-
+
+Add new tasks
+
+View all tasks
+
+Remove completed tasks
+
+Simple and user-friendly interface
+
+
+🛠️ Technologies Used
+
+Python
+
+
+📂 File
+
+todo_list.py
+
+
+---
+
+✅ Task 2 - Calculator Application
+
+A basic Calculator application developed using Python. It performs arithmetic operations through user input.
+
+✨ Features:-
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+
+Easy command-line interaction
+
+
+🛠️ Technologies Used
+
+Python
+
+
+📂 File
+
+calculator.py
+
+
+---
+
+🎯 Internship Details
+
+Company: CODSOFT
+
+Internship Domain: Python Programming
+
+Mode: Virtual Internship
+
+
+
+---
+
+📬 Contact
+
+GitHub: keertibinwal16-a11y
+
+Email: keertibinwal16@gmail.com
+
+
+
+---
+
+⭐ Thank you for visiting my repository!
