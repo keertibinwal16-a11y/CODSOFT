@@ -21,7 +21,7 @@ Domain: Python Programming
 
 📌 Projects Included
 
-✅ Task 1 - To-Do List Application
+ Task 1 - To-Do List Application
 
 A simple command-line based To-Do List application created using Python.
 
@@ -48,7 +48,7 @@ todo_list.py
 
 ---
 
-✅ Task 2 - Calculator Application
+ Task 2 - Calculator Application
 
 A basic Calculator application developed using Python. It performs arithmetic operations through user input.
 
@@ -76,6 +76,29 @@ calculator.py
 
 
 ---
+
+Task 3 - Password Generator
+
+A Python program that generates strong and secure passwords.
+
+✨ Features :-
+
+Random password generation
+
+User-defined password length
+
+Includes letters, numbers, and symbols
+
+💻 Technology Used
+
+Python
+
+▶️ How to Run
+
+Bash
+
+python password_generator.py
+
 
 🎯 Internship Details
 
