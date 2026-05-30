@@ -101,7 +101,7 @@ random computer choice
 instant result display
 simple and beginner-friendly pyhton project 
 
-## technologies usedm
+## technologies used
 
 pyhton
 
@@ -110,6 +110,32 @@ pyhton
 '''bash
 rock_paper_scissors.py
 
+
+---
+
+Task 5 - Contact book 
+
+Contact Book is a simple application that helps users manage their contacts efficiently. Users can add, view, search, update, and delete contact information.
+
+
+
+## features
+
+Add new contact
+view all saved contact
+search contact by name
+update contact detail
+delete contacts
+user - friendly interface
+
+## Technologies used
+
+python
+file hanlding/database
+
+## How to run
+'''bash
+python contact_book.py
 
 
 ## Internship Details
